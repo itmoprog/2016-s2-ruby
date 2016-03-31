@@ -19,4 +19,4 @@
 * Задание 1: «[Пирамида из звёздочек](star_pyramid.md)», файл `star_pyramid.rb`
 * Задание 2: «[Числа из суммы последовательных элементов](number_is_a_sum.md)», файл `number_is_a_sum.rb`
 * Задание 3: «[Числа, которые делятся на свои разряды](number_divisible_by_position.md)», файл `number_divisible_by_position.rb`
-* Задание 4: «Т-логины», файл `t-logins.rb`
+* Задание 4: «[Т-логины](t-logins.md)», файл `t-logins.rb`
